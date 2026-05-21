@@ -1,2 +1,9 @@
 # cybersecurity-practice-labs
-Hands‑on cybersecurity and penetration testing labs from PortSwigger, TryHackMe, and personal practice. Focus on practical exploitation techniques, methodology, reconnaissance and documenting my learning progress.
+
+This repository contains my hands-on cybersecurity exercises and writeups from:
+- PortSwigger Web Security Academy
+- TryHackMe rooms
+- SoftUni cybersecurity modules
+- Personal research and notes
+
+The goal is to document my learning process, demonstrate practical skills, and build a structured portfolio of security-related work.
