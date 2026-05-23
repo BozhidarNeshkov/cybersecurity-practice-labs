@@ -37,3 +37,8 @@ HTTP/2 302 Found
 Location: /my-account?id=administrator
 
 This confirmed successful authentication as the administrator user. The browser was redirected to the admin account page, and the lab was marked as solved.
+
+## 📸 Screenshots
+
+![Burp Request](screenshots/burp_request.png)
+![Lab Solved](screenshots/lab_solved.png)
