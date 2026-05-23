@@ -36,3 +36,11 @@ Because `1=1` is always true, the `released = 1` condition is bypassed, causing 
 
 ## ✅ Result
 The application displayed hidden/unreleased products, solving the lab.
+
+## 📸 Screenshots
+
+### Burp request
+![Burp request](./screenshots/burp_request.png)
+
+### Lab solved
+![Lab solved](./screenshots/lab_solved.png)
