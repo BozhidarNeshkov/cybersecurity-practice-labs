@@ -47,7 +47,7 @@ This confirms successful file path traversal.
 
 ## 📸 Screenshots
 
-![Burp request and response](./screenshots/burp_request_response.png)  
+![Burp request and response](./screenshots/burp_payload_and_response.png)  
 ![Lab solved](./screenshots/lab_solved.png)
 
 ---
