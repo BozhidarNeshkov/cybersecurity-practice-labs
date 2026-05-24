@@ -42,9 +42,9 @@ This confirms a **reflected XSS vulnerability** in an HTML context.
 ---
 
 ## 📸 Screenshots
-- `screenshots/payload_input.png` — Payload inserted into the search bar  
-- `screenshots/alert_triggered.png` — JavaScript alert successfully triggered  
-- `screenshots/solvedLab.png` — Lab solved
+![Payload inserted into search bar](./screenshots/payload_input.png)
+![JavaScript alert triggered](./screenshots/alert_triggered.png)
+![Lab solved](./screenshots/solvedLab.png)
 
 ---
 
