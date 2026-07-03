@@ -130,11 +130,11 @@ cd C:\Users\Administrator\Desktop
 type root.txt
 
 📸 Screenshots
-![Nmap Scan](./screenshots/nmapscan.png)
-![AS-REP Hash Cracked](./screenshots/hashcracked.png)
-![svc_loanmgr Password Located](./screenshots/svc_loanmanagerPasswordLocated.png)
-![BloodHound DCSync](./screenshots/bloodhound.png)
-![Impacket Administrator Hash Located](./screenshots/impackethashlocated.png)
-![Evil-WinRM Administrator Login](./screenshots/evil-winrmAdministratorLogin.png)
-![Evil-WinRM Administrator Shell](./screenshots/evil-winrmAdministratorHash.png)
-![Administrator Hash Retrieved](./screenshots/AdministratorHashRetrieved.png)
+![Nmap Scan](./Screenshots/nmapscan.png)
+![AS-REP Hash Cracked](./Screenshots/hashcracked.png)
+![svc_loanmgr Password Located](./Screenshots/svc_loanmanagerPasswordLocated.png)
+![BloodHound DCSync](./Screenshots/bloodhound.png)
+![Impacket Administrator Hash Located](./Screenshots/impackethashlocated.png)
+![Evil-WinRM Administrator Login](./Screenshots/evil-winrmAdministratorLogin.png)
+![Evil-WinRM Administrator Shell](./Screenshots/evil-winrmAdministratorHash.png)
+![Administrator Hash Retrieved](./Screenshots/AdministratorHashRetrieved.png)
